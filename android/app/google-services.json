@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321111182562",
+    "firebase_url": "https://cricketmanager-001.firebaseio.com",
+    "project_id": "cricketmanager-001",
+    "storage_bucket": "cricketmanager-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321111182562:android:e15c6ea922e2ad546562bb",
+        "android_client_info": {
+          "package_name": "com.example.cricket_team_creator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321111182562-vbbku5bii2u4o8lnjmv30gl5t3toueok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcpNE-eG8nQ2Ukib9O62TuGpUU7ycuuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321111182562-vbbku5bii2u4o8lnjmv30gl5t3toueok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
